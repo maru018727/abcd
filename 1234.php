@@ -1,3 +1,4 @@
+<?php 
 $questions=array(
             1=>array(
                 "question"=>"<<惡魔教室>>影片中主角Rainer Wenger創立了什麼組織？",
@@ -8,3 +9,4 @@ $questions=array(
                 "Correct"=>"answerA")
                 );
 echo json_encode($question);
+?>
